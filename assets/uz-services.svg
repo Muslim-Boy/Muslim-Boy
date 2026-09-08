@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100" width="1200" height="100" role="img" aria-labelledby="t">
+  <title id="t">XIZMATLAR &#8212; Men taklif qiladigan xizmatlar</title>
+  <defs>
+    <style>
+      .f { font-family: Inter, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="1200" height="100" rx="16" fill="#0A0A0A" />
+  <text class="f" x="68" y="44" font-size="12" font-weight="600" letter-spacing="3" fill="#FF5A1F">XIZMATLAR</text>
+  <text class="f" x="68" y="80" font-size="28" font-weight="700" fill="#FFFFFF">Men taklif qiladigan xizmatlar</text>
+</svg>

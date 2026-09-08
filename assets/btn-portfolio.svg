@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 236 48" width="236" height="48" role="img" aria-labelledby="t">
+  <title id="t">View the Portfolio</title>
+  <defs>
+    <style>
+      .f { font-family: Inter, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="236" height="48" rx="24" fill="#FF5A1F" />
+  <text class="f" x="118" y="30" font-size="14" font-weight="600" fill="#000000" text-anchor="middle">View the Portfolio&#160;&#160;&#8594;</text>
+</svg>
