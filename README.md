@@ -1,17 +1,44 @@
-<img src="assets/hero.svg" alt="Nurmatov Jo'ravoy — Digital Designer and Frontend Developer. I design. I code. I build digital experiences." width="100%">
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Years_Experience-2%2B-FF5A1F?style=for-the-badge&labelColor=141414" alt="2+ years experience">
-  <img src="https://img.shields.io/badge/Projects_Completed-20%2B-FF5A1F?style=for-the-badge&labelColor=141414" alt="20+ projects completed">
-  <img src="https://img.shields.io/badge/Happy_Clients-10%2B-FF5A1F?style=for-the-badge&labelColor=141414" alt="10+ happy clients">
-  <img src="https://img.shields.io/badge/Technologies_Used-100%2B-FF5A1F?style=for-the-badge&labelColor=141414" alt="100+ technologies used">
-</p>
+<img src="https://img.shields.io/badge/DIGITAL_DESIGNER_%26_FRONTEND_DEVELOPER-FF5A1F?style=flat-square" alt="Digital designer and frontend developer">
 
-<p align="center">
-  <a href="https://portfolio-ttzn.vercel.app/"><img src="assets/btn-portfolio.svg" alt="View the Portfolio" height="44"></a>
+<h1>Nurmatov Jo'ravoy</h1>
+
+<h3>I DESIGN. I CODE.<br>I BUILD DIGITAL EXPERIENCES.</h3>
+
+<p>I craft visually stunning, high-performance web and mobile products that drive results and leave lasting impressions.</p>
+
+<p>
+  <a href="https://portfolio-ttzn.vercel.app/"><img src="assets/btn-portfolio.svg" alt="View the Portfolio" height="42"></a>
   &nbsp;
-  <a href="https://portfolio-ttzn.vercel.app/#contact"><img src="assets/btn-hire.svg" alt="Hire Me" height="44"></a>
+  <a href="https://portfolio-ttzn.vercel.app/#contact"><img src="assets/btn-hire.svg" alt="Hire Me" height="42"></a>
 </p>
+
+</td>
+<td width="36%" align="center" valign="middle">
+
+<h1>N&nbsp;J</h1>
+
+<sub><b>FRONTEND DEVELOPER</b></sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Available_for_Freelance_Projects-FF5A1F?style=for-the-badge" alt="Available for freelance projects">
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr align="center">
+<td width="25%"><h2>2+</h2><sub><b>YEARS EXPERIENCE</b></sub><br><br></td>
+<td width="25%"><h2>20+</h2><sub><b>PROJECTS COMPLETED</b></sub><br><br></td>
+<td width="25%"><h2>10+</h2><sub><b>HAPPY CLIENTS</b></sub><br><br></td>
+<td width="25%"><h2>100+</h2><sub><b>TECHNOLOGIES USED</b></sub><br><br></td>
+</tr>
+</table>
 
 <p align="center">
   <a href="mailto:umni001@gmail.com"><img src="https://img.shields.io/badge/Email-141414?style=for-the-badge&logo=gmail&logoColor=FF5A1F" alt="Email umni001@gmail.com"></a>
@@ -71,38 +98,98 @@ My work spans **React, Vue.js and Next.js** on the web, and **React Native with 
 
 **Clean & Modern Design** · **Responsive & Scalable** · **Performance Focused** · **User Experience Driven**
 
-## Services I Offer
+## What I Do
 
-| Service | What it means |
-| :-- | :-- |
-| **Web Development** | I build fast, responsive and accessible websites using React, Vue and Next.js. |
-| **Mobile Development** | Cross-platform apps with React Native and Expo, shipped to both Android and iOS. |
-| **UI Implementation** | I turn Figma designs into pixel-perfect interfaces that behave on every screen. |
-| **Panels & Dashboards** | Data-heavy admin panels with filters, tables and charts that stay usable at scale. |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-## Tech Stack
+<h3>Web Development</h3>
 
-<p>
+<p>I build fast, responsive and accessible websites using React, Vue and Next.js.</p>
+
+<img src="https://img.shields.io/badge/React-141414?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Vue_3-141414?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue 3">
+<img src="https://img.shields.io/badge/Next.js-141414?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js">
+
+</td>
+<td width="50%" valign="top">
+
+<h3>Mobile Development</h3>
+
+<p>Cross-platform apps with React Native and Expo, shipped to both Android and iOS.</p>
+
+<img src="https://img.shields.io/badge/React_Native-141414?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native">
+<img src="https://img.shields.io/badge/Expo-141414?style=flat-square&logo=expo&logoColor=FFFFFF" alt="Expo">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>UI Implementation</h3>
+
+<p>I turn Figma designs into pixel-perfect interfaces that behave on every screen.</p>
+
+<img src="https://img.shields.io/badge/Figma-141414?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma">
+<img src="https://img.shields.io/badge/Tailwind_CSS-141414?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/Quasar-141414?style=flat-square&logo=quasar&logoColor=FFFFFF" alt="Quasar">
+
+</td>
+<td width="50%" valign="top">
+
+<h3>Panels &amp; Dashboards</h3>
+
+<p>Data-heavy admin panels with filters, tables and charts that stay usable at scale.</p>
+
+<img src="https://img.shields.io/badge/NestJS-141414?style=flat-square&logo=nestjs&logoColor=E0234E" alt="NestJS">
+<img src="https://img.shields.io/badge/PostgreSQL-141414?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Chart.js-141414?style=flat-square&logo=chartdotjs&logoColor=FF6384" alt="Chart.js">
+
+</td>
+</tr>
+</table>
+
+## My Tech Stack
+
+<table width="100%">
+<tr>
+<td width="20%" valign="middle"><b>Frontend</b></td>
+<td valign="middle">
   <img src="https://img.shields.io/badge/React-141414?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Vue.js-141414?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Next.js-141414?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript-141414?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
   <img src="https://img.shields.io/badge/Vite-141414?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite">
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>Styling &amp; UI</b></td>
+<td valign="middle">
   <img src="https://img.shields.io/badge/Tailwind_CSS-141414?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Quasar-141414?style=for-the-badge&logo=quasar&logoColor=FFFFFF" alt="Quasar">
+  <img src="https://img.shields.io/badge/Figma-141414?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma">
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>Mobile</b></td>
+<td valign="middle">
   <img src="https://img.shields.io/badge/React_Native-141414?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
   <img src="https://img.shields.io/badge/Expo-141414?style=for-the-badge&logo=expo&logoColor=FFFFFF" alt="Expo">
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>Backend &amp; Data</b></td>
+<td valign="middle">
   <img src="https://img.shields.io/badge/Node.js-141414?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-141414?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Next.js-141414?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js">
   <img src="https://img.shields.io/badge/NestJS-141414?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS">
   <img src="https://img.shields.io/badge/Prisma-141414?style=for-the-badge&logo=prisma&logoColor=FFFFFF" alt="Prisma">
   <img src="https://img.shields.io/badge/PostgreSQL-141414?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Socket.IO-141414?style=for-the-badge&logo=socketdotio&logoColor=FFFFFF" alt="Socket.IO">
-  <img src="https://img.shields.io/badge/Pinia-141414?style=for-the-badge&logo=pinia&logoColor=FFD859" alt="Pinia">
   <img src="https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
-</p>
+</td>
+</tr>
+</table>
 
 ## Selected Work
 
