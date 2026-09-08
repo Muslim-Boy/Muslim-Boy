@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-ttzn.vercel.app/"><img src="assets/btn-portfolio.svg" alt="View the Portfolio" height="44"></a>
+  <a href="https://portfolio-muslim-boy.vercel.app/"><img src="assets/btn-portfolio.svg" alt="View the Portfolio" height="44"></a>
   &nbsp;
-  <a href="https://portfolio-ttzn.vercel.app/#contact"><img src="assets/btn-hire.svg" alt="Hire Me" height="44"></a>
+  <a href="https://portfolio-muslim-boy.vercel.app/#contact"><img src="assets/btn-hire.svg" alt="Hire Me" height="44"></a>
 </p>
 
 <p align="center">
@@ -48,12 +48,12 @@ Frontendda **React, Vue.js va Next.js**, mobilda **React Native va Expo** bilan 
 | Loyiha | Yil | Texnologiyalar | Havola |
 | :-- | :-- | :-- | :-- |
 | **Gaz Ballon ERP** — ko'p kompaniyali ERP / SaaS | 2026 | React · NestJS · Prisma · PostgreSQL | [Jonli demo](https://usta-hona.vercel.app) |
-| **Namuna Oshxona** — restoran sayti va buyurtma tizimi | 2026 | Vue 3 · NestJS · Prisma · Socket.IO | [Portfolioda](https://portfolio-ttzn.vercel.app/#projects) |
+| **Namuna Oshxona** — restoran sayti va buyurtma tizimi | 2026 | Vue 3 · NestJS · Prisma · Socket.IO | [Portfolioda](https://portfolio-muslim-boy.vercel.app/#projects) |
 | **Restaurant Pro** — zal boshqaruvi va POS | 2026 | Vue 3 · Pinia · Chart.js · i18n | [Jonli demo](https://portfolio-cd1l.vercel.app) · [Kod](https://github.com/Muslim-Boy/restaurant-app) |
 | **Sening Navbating** — Telegram navbat boti va Mini App | 2026 | Node.js · grammY · PostgreSQL · Vue 3 | [Jonli demo](https://your-turn-queue-bot.vercel.app) |
-| **Interactive SVG Map** — hudud tanlash interfeysi | 2025 | Vue · SVG · Tailwind | [Portfolioda](https://portfolio-ttzn.vercel.app/#projects) |
-| **Region Detail View** — xaritada chuqurlashuv | 2025 | Vue · Quasar · Pinia | [Portfolioda](https://portfolio-ttzn.vercel.app/#projects) |
-| **Admin Dashboard** — ichki panel | 2025 | React · Tailwind · REST API | [Portfolioda](https://portfolio-ttzn.vercel.app/#projects) |
+| **Interactive SVG Map** — hudud tanlash interfeysi | 2025 | Vue · SVG · Tailwind | [Portfolioda](https://portfolio-muslim-boy.vercel.app/#projects) |
+| **Region Detail View** — xaritada chuqurlashuv | 2025 | Vue · Quasar · Pinia | [Portfolioda](https://portfolio-muslim-boy.vercel.app/#projects) |
+| **Admin Dashboard** — ichki panel | 2025 | React · Tailwind · REST API | [Portfolioda](https://portfolio-muslim-boy.vercel.app/#projects) |
 
 ### Bog'lanish
 
@@ -62,7 +62,7 @@ Frontendda **React, Vue.js va Next.js**, mobilda **React Native va Expo** bilan 
 | **Email** | [umni001@gmail.com](mailto:umni001@gmail.com) |
 | **Telefon** | [+998 97 253 61 01](tel:+998972536101) |
 | **Joylashuv** | O'zbekiston |
-| **Portfolio** | [portfolio-ttzn.vercel.app](https://portfolio-ttzn.vercel.app/) |
+| **Portfolio** | [portfolio-ttzn.vercel.app](https://portfolio-muslim-boy.vercel.app/) |
 
 Freelance platformalarda: [Upwork](https://www.upwork.com/freelancers/~0190a98d7361f40f94) · [Freelancer](https://www.freelancer.com/u/jorabekn3) · [Fiverr](https://www.fiverr.com/s/BRrYRD1)
 
@@ -147,7 +147,7 @@ Multi-company ERP for gas cylinder (Metan/Propan) installation and service works
 <td width="50%" valign="top">
 
 <p align="center">
-  <a href="https://portfolio-ttzn.vercel.app/#projects"><img src="assets/work/namuna-oshxona.png" alt="Namuna Oshxona storefront" width="100%"></a>
+  <a href="https://portfolio-muslim-boy.vercel.app/#projects"><img src="assets/work/namuna-oshxona.png" alt="Namuna Oshxona storefront" width="100%"></a>
 </p>
 
 <h3>Namuna Oshxona &nbsp;<sub>2026 · Restaurant site &amp; ordering</sub></h3>
@@ -160,7 +160,7 @@ Dark-theme restaurant storefront with a complete ordering flow and admin panel. 
 <img src="https://img.shields.io/badge/Socket.IO-141414?style=flat-square" alt="Socket.IO">
 <img src="https://img.shields.io/badge/Tailwind-141414?style=flat-square" alt="Tailwind">
 
-**[See it on the portfolio →](https://portfolio-ttzn.vercel.app/#projects)**
+**[See it on the portfolio →](https://portfolio-muslim-boy.vercel.app/#projects)**
 
 </td>
 </tr>
@@ -214,7 +214,7 @@ Telegram bot that runs turn-taking queues inside group chats. Whoever adds it be
 | **Region Detail View** — drill-down that zooms a region and renders its districts | 2025 | Vue · Quasar · Pinia |
 | **Admin Dashboard** — REST-backed internal panel with filterable tables and role-aware nav | 2025 | React · Tailwind · REST API |
 
-**[View all projects on the portfolio →](https://portfolio-ttzn.vercel.app/#projects)**
+**[View all projects on the portfolio →](https://portfolio-muslim-boy.vercel.app/#projects)**
 
 ## GitHub Activity
 
@@ -235,7 +235,7 @@ Telegram bot that runs turn-taking queues inside group chats. Whoever adds it be
 | **Email** | [umni001@gmail.com](mailto:umni001@gmail.com) |
 | **Phone** | [+998 97 253 61 01](tel:+998972536101) |
 | **Location** | Uzbekistan |
-| **Portfolio** | [portfolio-ttzn.vercel.app](https://portfolio-ttzn.vercel.app/) |
+| **Portfolio** | [portfolio-ttzn.vercel.app](https://portfolio-muslim-boy.vercel.app/) |
 
 <p align="center">
   <a href="https://www.upwork.com/freelancers/~0190a98d7361f40f94"><img src="https://img.shields.io/badge/Hire_on_Upwork-FF5A1F?style=for-the-badge&logo=upwork&logoColor=000000" alt="Hire on Upwork"></a>
@@ -246,5 +246,5 @@ Telegram bot that runs turn-taking queues inside group chats. Whoever adds it be
 ---
 
 <p align="center">
-  <sub>© 2026 Nurmatov Jo'ravoy · <a href="https://portfolio-ttzn.vercel.app/">portfolio-ttzn.vercel.app</a></sub>
+  <sub>© 2026 Nurmatov Jo'ravoy · <a href="https://portfolio-muslim-boy.vercel.app/">portfolio-ttzn.vercel.app</a></sub>
 </p>
