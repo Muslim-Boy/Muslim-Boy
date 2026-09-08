@@ -195,7 +195,10 @@ Telegram bot that runs turn-taking queues inside group chats. Whoever adds it be
 <img src="assets/sec-activity.svg" alt="GitHub activity — By the Numbers" width="100%">
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=Muslim-Boy&background=0A0A0A&border=1F1F1F&stroke=1F1F1F&ring=FF5A1F&fire=FF5A1F&currStreakLabel=FF5A1F&currStreakNum=FFFFFF&sideLabels=A1A1A1&sideNums=FFFFFF&dates=A1A1A1&border_radius=16" alt="GitHub contribution streak" height="170">
+  <img src="https://streak-stats.demolab.com/?user=Muslim-Boy&background=0A0A0A&border=1F1F1F&stroke=1F1F1F&ring=FF5A1F&fire=FF5A1F&currStreakLabel=FF5A1F&currStreakNum=FFFFFF&sideLabels=A1A1A1&sideNums=FFFFFF&dates=A1A1A1&border_radius=16" alt="GitHub contribution streak">
+</p>
+
+<p>
   <img src="https://komarev.com/ghpvc/?username=Muslim-Boy&color=FF5A1F&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
