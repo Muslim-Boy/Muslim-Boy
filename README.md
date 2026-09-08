@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="Nurmatov Jo'ravoy — Digital Designer and Frontend Developer. I design. I code. I build digital experiences." width="100%">
+  <img src="assets/hero.svg" alt="Nurmatov Jo'ravoy — Full Stack Developer, frontend-focused. I design. I code. I build digital experiences." width="100%">
 </p>
 
 <p align="center">
@@ -27,9 +27,11 @@
 
 ### Haqimda
 
-Men **Nurmatov Jo'ravoy**man — g'oyalarni toza, zamonaviy va ishlaydigan veb-tajribaga aylantirishni yaxshi ko'radigan frontend dasturchiman. Diqqatim foydalanuvchiga yo'naltirilgan dizayn va piksel darajasidagi aniqlikda.
+Men **Nurmatov Jo'ravoy**man — veb va mobil mahsulotlarni boshidan oxirigacha quradigan full stack dasturchiman: piksel-aniq interfeysdan tortib, ular ortidagi API, ma'lumotlar bazasi va realtime qatlamgacha.
 
-Veb tomonda **React, Vue.js va Next.js**, mobil tomonda **React Native va Expo** bilan ishlayman — mahsulot o'sgani sayin ham tez, qulay va qo'llab-quvvatlash oson bo'lib qolishi men uchun muhim.
+Frontendda **React, Vue.js va Next.js**, mobilda **React Native va Expo** bilan ishlayman. Backendda **NestJS** xizmatlarini **Prisma** va **PostgreSQL** ustida quraman, realtime uchun **Socket.IO**, Telegram botlar uchun **Node.js**, kerak bo'lganda **Python** — masalan, Gaz Ballon ERP dagi avtomobil pasportini o'qiydigan OCR xizmati.
+
+> **Tajribam aslida qayerda chuqurroq.** O'zimni full stack deb atayman, chunki mahsulotni to'liq yetkazib beraman. Lekin nisbatni bo'rttirgandan ko'ra ochiq aytganim ma'qul: **tajribamning katta qismi frontendda**, eng kuchli va tez ishlaydigan joyim ham shu. Backend ishlarim haqiqiy va productionda ishlayapti — quyidagi ERP, restoran platformasi va navbat boti men yozgan xizmatlar ustida turibdi — lekin bu tajribamning kichikroq qismi. Frontend bo'yicha mutaxassis kerak bo'lsa — bu mening asosiy yo'nalishim. Vazifani boshidan oxirigacha o'z zimmasiga oladigan odam kerak bo'lsa — buni ham uddalayman.
 
 ### Xizmatlar
 
@@ -39,6 +41,7 @@ Veb tomonda **React, Vue.js va Next.js**, mobil tomonda **React Native va Expo**
 | **Mobil dasturlash** | React Native va Expo bilan Android va iOS uchun bir vaqtda ishlaydigan ilovalar. |
 | **UI ni kodga ko'chirish** | Figma dizaynlarini har qanday ekranda to'g'ri ishlaydigan piksel-aniq interfeysga aylantiraman. |
 | **Panel va dashboardlar** | Filtrlar, jadvallar va grafiklari bilan katta hajmda ham qulay qoladigan admin panellar. |
+| **API va backend** | NestJS, Prisma va PostgreSQL asosida REST va realtime xizmatlar — sxema, autentifikatsiya va ruxsatlar bilan birga. |
 
 ### Tanlangan ishlar
 
@@ -67,9 +70,11 @@ Freelance platformalarda: [Upwork](https://www.upwork.com/freelancers/~0190a98d7
 
 ## About Me
 
-I'm **Nurmatov Jo'ravoy**, a frontend developer who loves turning ideas into clean, modern and functional web experiences. I focus on user-centered design and pixel-perfect development.
+I'm **Nurmatov Jo'ravoy**, a full stack developer who builds web and mobile products end to end — from pixel-perfect interfaces down to the APIs, databases and realtime layers behind them.
 
-My work spans **React, Vue.js and Next.js** on the web, and **React Native with Expo** on mobile — building products that stay fast, accessible and maintainable as they grow.
+On the frontend I work with **React, Vue.js and Next.js**, and **React Native with Expo** on mobile. On the backend I build **NestJS** services on **Prisma** and **PostgreSQL**, realtime features over **Socket.IO**, Telegram bots on **Node.js**, and the occasional **Python** service — like the OCR pipeline that reads vehicle passports in Gaz Ballon ERP.
+
+> **Where my depth actually is.** I call myself full stack because I ship whole products, but I'd rather be straight about the balance than oversell it: **the large majority of my experience is on the frontend**, and that's where I'm strongest and fastest. My backend work is real and running in production — the ERP, the restaurant platform and the queue bot below all sit on services I wrote — but it's the smaller half of my track record. If you need a frontend specialist, that's my core. If you need someone to own a feature end to end, I can do that too.
 
 **Clean & Modern Design** · **Responsive & Scalable** · **Performance Focused** · **User Experience Driven**
 
@@ -81,28 +86,38 @@ My work spans **React, Vue.js and Next.js** on the web, and **React Native with 
 | **Mobile Development** | Cross-platform apps with React Native and Expo, shipped to both Android and iOS. |
 | **UI Implementation** | I turn Figma designs into pixel-perfect interfaces that behave on every screen. |
 | **Panels & Dashboards** | Data-heavy admin panels with filters, tables and charts that stay usable at scale. |
+| **APIs & Backend** | REST and realtime services with NestJS, Prisma and PostgreSQL — schema, auth and permissions included. |
 
 ## Tech Stack
+
+<p align="center"><b>Frontend</b> — where most of my experience is</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-141414?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Vue.js-141414?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Next.js-141414?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript-141414?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
   <img src="https://img.shields.io/badge/Vite-141414?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite">
   <img src="https://img.shields.io/badge/Tailwind_CSS-141414?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Quasar-141414?style=for-the-badge&logo=quasar&logoColor=FFFFFF" alt="Quasar">
-  <img src="https://img.shields.io/badge/React_Native-141414?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
-  <img src="https://img.shields.io/badge/Expo-141414?style=for-the-badge&logo=expo&logoColor=FFFFFF" alt="Expo">
-  <img src="https://img.shields.io/badge/Node.js-141414?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
+  <img src="https://img.shields.io/badge/Pinia-141414?style=for-the-badge&logo=pinia&logoColor=FFD859" alt="Pinia">
 </p>
 
+<p align="center"><b>Mobile</b></p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-141414?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Next.js-141414?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js">
+  <img src="https://img.shields.io/badge/React_Native-141414?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/Expo-141414?style=for-the-badge&logo=expo&logoColor=FFFFFF" alt="Expo">
+</p>
+
+<p align="center"><b>Backend &amp; Data</b> — smaller share, but shipped to production</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-141414?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
   <img src="https://img.shields.io/badge/NestJS-141414?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS">
   <img src="https://img.shields.io/badge/Prisma-141414?style=for-the-badge&logo=prisma&logoColor=FFFFFF" alt="Prisma">
   <img src="https://img.shields.io/badge/PostgreSQL-141414?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Socket.IO-141414?style=for-the-badge&logo=socketdotio&logoColor=FFFFFF" alt="Socket.IO">
-  <img src="https://img.shields.io/badge/Pinia-141414?style=for-the-badge&logo=pinia&logoColor=FFD859" alt="Pinia">
   <img src="https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
 </p>
 

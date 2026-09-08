@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-labelledby="t">
-  <title id="t">Nurmatov Jo'ravoy — Digital Designer &amp; Frontend Developer</title>
+  <title id="t">Nurmatov Jo'ravoy — Full Stack Developer, frontend-focused</title>
 
   <defs>
     <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
@@ -23,18 +23,18 @@
     <circle cx="1150" cy="10" r="250" fill="#FF5A1F" opacity="0.22" filter="url(#glow)" />
 
     <!-- ============ left column ============ -->
-    <text class="f" x="68" y="104" font-size="12" font-weight="600" letter-spacing="3" fill="#FF5A1F">DIGITAL DESIGNER &amp; FRONTEND DEVELOPER</text>
+    <text class="f" x="68" y="104" font-size="12" font-weight="600" letter-spacing="3" fill="#FF5A1F">FULL STACK DEVELOPER &#160;&#183;&#160; FRONTEND-FOCUSED</text>
 
     <text class="f" x="68" y="164" font-size="46" font-weight="800" fill="#FFFFFF">Nurmatov Jo'ravoy</text>
 
     <text class="f" x="68" y="216" font-size="30" font-weight="700" letter-spacing="0.5" fill="#FFFFFF">I DESIGN. I CODE.</text>
     <text class="f" x="68" y="254" font-size="30" font-weight="700" letter-spacing="0.5" fill="#FFFFFF">I BUILD <tspan fill="#FF5A1F">DIGITAL EXPERIENCES.</tspan></text>
 
-    <text class="f" x="68" y="300" font-size="14.5" fill="#FFFFFF" fill-opacity="0.6">I craft visually stunning, high-performance web and mobile</text>
-    <text class="f" x="68" y="322" font-size="14.5" fill="#FFFFFF" fill-opacity="0.6">products that drive results and leave lasting impressions.</text>
+    <text class="f" x="68" y="300" font-size="14.5" fill="#FFFFFF" fill-opacity="0.6">I build web and mobile products end to end — from pixel-perfect</text>
+    <text class="f" x="68" y="322" font-size="14.5" fill="#FFFFFF" fill-opacity="0.6">interfaces to the APIs and databases behind them.</text>
 
     <!-- tech line -->
-    <text class="f" x="68" y="368" font-size="12" font-weight="600" letter-spacing="2.5" fill="#FFFFFF" fill-opacity="0.35">REACT&#160; &#183; &#160;VUE&#160; &#183; &#160;NEXT.JS&#160; &#183; &#160;REACT NATIVE&#160; &#183; &#160;NODE.JS</text>
+    <text class="f" x="68" y="368" font-size="11.5" font-weight="600" letter-spacing="2" fill="#FFFFFF" fill-opacity="0.35">REACT&#160; &#183; &#160;VUE&#160; &#183; &#160;NEXT.JS&#160; &#183; &#160;REACT NATIVE&#160; &#183; &#160;NESTJS&#160; &#183; &#160;POSTGRESQL</text>
 
     <!-- ============ right column — portrait card ============ -->
     <g transform="rotate(3 952 211)">
@@ -44,7 +44,7 @@
     <rect x="792" y="78" width="320" height="266" rx="24" fill="#141414" stroke="#FFFFFF" stroke-opacity="0.1" />
 
     <text class="f" x="952" y="222" font-size="92" font-weight="800" font-style="italic" letter-spacing="-2" fill="#FF5A1F" text-anchor="middle">NJ</text>
-    <text class="f" x="952" y="256" font-size="11" font-weight="600" letter-spacing="3" fill="#FFFFFF" fill-opacity="0.45" text-anchor="middle">FRONTEND DEVELOPER</text>
+    <text class="f" x="952" y="256" font-size="11" font-weight="600" letter-spacing="2.5" fill="#FFFFFF" fill-opacity="0.45" text-anchor="middle">FULL STACK DEVELOPER</text>
 
     <!-- corner brackets -->
     <g fill="none" stroke="#FF5A1F" stroke-width="2">
