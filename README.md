@@ -1,13 +1,19 @@
 <img src="assets/hero.svg" alt="Nurmatov Jo'ravoy — Digital Designer and Frontend Developer. I design. I code. I build digital experiences." width="100%">
 
-<img src="assets/stats.svg" alt="2+ years experience · 20+ projects completed · 10+ happy clients · 100+ technologies used" width="100%">
+<p align="center">
+  <img src="https://img.shields.io/badge/Years_Experience-2%2B-FF5A1F?style=for-the-badge&labelColor=141414" alt="2+ years experience">
+  <img src="https://img.shields.io/badge/Projects_Completed-20%2B-FF5A1F?style=for-the-badge&labelColor=141414" alt="20+ projects completed">
+  <img src="https://img.shields.io/badge/Happy_Clients-10%2B-FF5A1F?style=for-the-badge&labelColor=141414" alt="10+ happy clients">
+  <img src="https://img.shields.io/badge/Technologies_Used-100%2B-FF5A1F?style=for-the-badge&labelColor=141414" alt="100+ technologies used">
+</p>
 
-<p>
+<p align="center">
   <a href="https://portfolio-ttzn.vercel.app/"><img src="assets/btn-portfolio.svg" alt="View the Portfolio" height="44"></a>
+  &nbsp;
   <a href="https://portfolio-ttzn.vercel.app/#contact"><img src="assets/btn-hire.svg" alt="Hire Me" height="44"></a>
 </p>
 
-<p>
+<p align="center">
   <a href="mailto:umni001@gmail.com"><img src="https://img.shields.io/badge/Email-141414?style=for-the-badge&logo=gmail&logoColor=FF5A1F" alt="Email umni001@gmail.com"></a>
   <a href="https://www.upwork.com/freelancers/~0190a98d7361f40f94"><img src="https://img.shields.io/badge/Upwork-141414?style=for-the-badge&logo=upwork&logoColor=FF5A1F" alt="Upwork profile"></a>
   <a href="https://www.freelancer.com/u/jorabekn3"><img src="https://img.shields.io/badge/Freelancer-141414?style=for-the-badge&logo=freelancer&logoColor=FF5A1F" alt="Freelancer profile"></a>
@@ -17,15 +23,13 @@
 <details>
 <summary>🇺🇿 &nbsp;<b>O'zbekcha o'qish</b></summary>
 
-<br>
-
-<img src="assets/uz-about.svg" alt="Haqimda — Maqsadli va puxta raqamli mahsulotlar" width="100%">
+### Haqimda
 
 Men **Nurmatov Jo'ravoy**man — g'oyalarni toza, zamonaviy va ishlaydigan veb-tajribaga aylantirishni yaxshi ko'radigan frontend dasturchiman. Diqqatim foydalanuvchiga yo'naltirilgan dizayn va piksel darajasidagi aniqlikda.
 
 Veb tomonda **React, Vue.js va Next.js**, mobil tomonda **React Native va Expo** bilan ishlayman — mahsulot o'sgani sayin ham tez, qulay va qo'llab-quvvatlash oson bo'lib qolishi men uchun muhim.
 
-<img src="assets/uz-services.svg" alt="Xizmatlar — Men taklif qiladigan xizmatlar" width="100%">
+### Xizmatlar
 
 | Xizmat | Nima qilaman |
 | :-- | :-- |
@@ -34,7 +38,7 @@ Veb tomonda **React, Vue.js va Next.js**, mobil tomonda **React Native va Expo**
 | **UI ni kodga ko'chirish** | Figma dizaynlarini har qanday ekranda to'g'ri ishlaydigan piksel-aniq interfeysga aylantiraman. |
 | **Panel va dashboardlar** | Filtrlar, jadvallar va grafiklari bilan katta hajmda ham qulay qoladigan admin panellar. |
 
-<img src="assets/uz-work.svg" alt="Loyihalar — Tanlangan ishlar" width="100%">
+### Tanlangan ishlar
 
 | Loyiha | Yil | Texnologiyalar | Havola |
 | :-- | :-- | :-- | :-- |
@@ -46,7 +50,7 @@ Veb tomonda **React, Vue.js va Next.js**, mobil tomonda **React Native va Expo**
 | **Region Detail View** — xaritada chuqurlashuv | 2025 | Vue · Quasar · Pinia | [Portfolioda](https://portfolio-ttzn.vercel.app/#projects) |
 | **Admin Dashboard** — ichki panel | 2025 | React · Tailwind · REST API | [Portfolioda](https://portfolio-ttzn.vercel.app/#projects) |
 
-<img src="assets/uz-contact.svg" alt="Bog'lanish — Loyihangiz bormi?" width="100%">
+### Bog'lanish
 
 | | |
 | :-- | :-- |
@@ -59,20 +63,15 @@ Freelance platformalarda: [Upwork](https://www.upwork.com/freelancers/~0190a98d7
 
 </details>
 
-<img src="assets/sec-about.svg" alt="About me — Building digital products with purpose and precision." width="100%">
+## About Me
 
 I'm **Nurmatov Jo'ravoy**, a frontend developer who loves turning ideas into clean, modern and functional web experiences. I focus on user-centered design and pixel-perfect development.
 
 My work spans **React, Vue.js and Next.js** on the web, and **React Native with Expo** on mobile — building products that stay fast, accessible and maintainable as they grow.
 
-<p>
-  <img src="https://img.shields.io/badge/Clean_%26_Modern_Design-141414?style=flat-square" alt="Clean and modern design">
-  <img src="https://img.shields.io/badge/Responsive_%26_Scalable-141414?style=flat-square" alt="Responsive and scalable">
-  <img src="https://img.shields.io/badge/Performance_Focused-141414?style=flat-square" alt="Performance focused">
-  <img src="https://img.shields.io/badge/User_Experience_Driven-141414?style=flat-square" alt="User experience driven">
-</p>
+**Clean & Modern Design** · **Responsive & Scalable** · **Performance Focused** · **User Experience Driven**
 
-<img src="assets/sec-services.svg" alt="What I do — Services I Offer" width="100%">
+## Services I Offer
 
 | Service | What it means |
 | :-- | :-- |
@@ -81,7 +80,7 @@ My work spans **React, Vue.js and Next.js** on the web, and **React Native with 
 | **UI Implementation** | I turn Figma designs into pixel-perfect interfaces that behave on every screen. |
 | **Panels & Dashboards** | Data-heavy admin panels with filters, tables and charts that stay usable at scale. |
 
-<img src="assets/sec-stack.svg" alt="My tech stack — Technologies I Work With" width="100%">
+## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/React-141414?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
@@ -105,7 +104,7 @@ My work spans **React, Vue.js and Next.js** on the web, and **React Native with 
   <img src="https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
 </p>
 
-<img src="assets/sec-work.svg" alt="Featured projects — Selected Work" width="100%">
+## Selected Work
 
 <table>
 <tr>
@@ -117,11 +116,11 @@ My work spans **React, Vue.js and Next.js** on the web, and **React Native with 
 
 Multi-company ERP for gas cylinder (Metan/Propan) installation and service workshops. Twelve permission-gated modules — orders, customers, warehouse, fines, analytics, reports and audit — plus a Python OCR service that reads vehicle passports.
 
-<img src="https://img.shields.io/badge/React-0A0A0A?style=flat-square" alt="React">
-<img src="https://img.shields.io/badge/NestJS-0A0A0A?style=flat-square" alt="NestJS">
-<img src="https://img.shields.io/badge/Prisma-0A0A0A?style=flat-square" alt="Prisma">
-<img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=flat-square" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Tailwind-0A0A0A?style=flat-square" alt="Tailwind">
+<img src="https://img.shields.io/badge/React-141414?style=flat-square" alt="React">
+<img src="https://img.shields.io/badge/NestJS-141414?style=flat-square" alt="NestJS">
+<img src="https://img.shields.io/badge/Prisma-141414?style=flat-square" alt="Prisma">
+<img src="https://img.shields.io/badge/PostgreSQL-141414?style=flat-square" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Tailwind-141414?style=flat-square" alt="Tailwind">
 
 **[Live Demo →](https://usta-hona.vercel.app)**
 
@@ -134,11 +133,11 @@ Multi-company ERP for gas cylinder (Metan/Propan) installation and service works
 
 Dark-theme restaurant storefront with a complete ordering flow and admin panel. Live order board over Socket.IO, QR table entry, promo codes, delivery zones and a bilingual UZ/RU menu of 87 dishes.
 
-<img src="https://img.shields.io/badge/Vue_3-0A0A0A?style=flat-square" alt="Vue 3">
-<img src="https://img.shields.io/badge/NestJS-0A0A0A?style=flat-square" alt="NestJS">
-<img src="https://img.shields.io/badge/Prisma-0A0A0A?style=flat-square" alt="Prisma">
-<img src="https://img.shields.io/badge/Socket.IO-0A0A0A?style=flat-square" alt="Socket.IO">
-<img src="https://img.shields.io/badge/Tailwind-0A0A0A?style=flat-square" alt="Tailwind">
+<img src="https://img.shields.io/badge/Vue_3-141414?style=flat-square" alt="Vue 3">
+<img src="https://img.shields.io/badge/NestJS-141414?style=flat-square" alt="NestJS">
+<img src="https://img.shields.io/badge/Prisma-141414?style=flat-square" alt="Prisma">
+<img src="https://img.shields.io/badge/Socket.IO-141414?style=flat-square" alt="Socket.IO">
+<img src="https://img.shields.io/badge/Tailwind-141414?style=flat-square" alt="Tailwind">
 
 **[See it on the portfolio →](https://portfolio-ttzn.vercel.app/#projects)**
 
@@ -153,11 +152,11 @@ Dark-theme restaurant storefront with a complete ordering flow and admin panel. 
 
 In-house restaurant floor panel: open and close table bills, apply service fees and room surcharges, log employee fines, and review revenue analytics — persisted locally, no backend required.
 
-<img src="https://img.shields.io/badge/Vue_3-0A0A0A?style=flat-square" alt="Vue 3">
-<img src="https://img.shields.io/badge/Pinia-0A0A0A?style=flat-square" alt="Pinia">
-<img src="https://img.shields.io/badge/Chart.js-0A0A0A?style=flat-square" alt="Chart.js">
-<img src="https://img.shields.io/badge/Tailwind-0A0A0A?style=flat-square" alt="Tailwind">
-<img src="https://img.shields.io/badge/i18n-0A0A0A?style=flat-square" alt="i18n">
+<img src="https://img.shields.io/badge/Vue_3-141414?style=flat-square" alt="Vue 3">
+<img src="https://img.shields.io/badge/Pinia-141414?style=flat-square" alt="Pinia">
+<img src="https://img.shields.io/badge/Chart.js-141414?style=flat-square" alt="Chart.js">
+<img src="https://img.shields.io/badge/Tailwind-141414?style=flat-square" alt="Tailwind">
+<img src="https://img.shields.io/badge/i18n-141414?style=flat-square" alt="i18n">
 
 **[Live Demo →](https://portfolio-cd1l.vercel.app)** &nbsp;·&nbsp; **[Code →](https://github.com/Muslim-Boy/restaurant-app)**
 
@@ -170,11 +169,11 @@ In-house restaurant floor panel: open and close table bills, apply service fees 
 
 Telegram bot that runs turn-taking queues inside group chats. Whoever adds it becomes that group's admin and builds queues in a Mini App — sequential or random order, time or command triggers, vote-based confirmation and reminders.
 
-<img src="https://img.shields.io/badge/Node.js-0A0A0A?style=flat-square" alt="Node.js">
-<img src="https://img.shields.io/badge/grammY-0A0A0A?style=flat-square" alt="grammY">
-<img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=flat-square" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Vue_3-0A0A0A?style=flat-square" alt="Vue 3">
-<img src="https://img.shields.io/badge/Vercel-0A0A0A?style=flat-square" alt="Vercel">
+<img src="https://img.shields.io/badge/Node.js-141414?style=flat-square" alt="Node.js">
+<img src="https://img.shields.io/badge/grammY-141414?style=flat-square" alt="grammY">
+<img src="https://img.shields.io/badge/PostgreSQL-141414?style=flat-square" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Vue_3-141414?style=flat-square" alt="Vue 3">
+<img src="https://img.shields.io/badge/Vercel-141414?style=flat-square" alt="Vercel">
 
 **[Live Demo →](https://your-turn-queue-bot.vercel.app)**
 
@@ -190,9 +189,9 @@ Telegram bot that runs turn-taking queues inside group chats. Whoever adds it be
 | **Region Detail View** — drill-down that zooms a region and renders its districts | 2025 | Vue · Quasar · Pinia |
 | **Admin Dashboard** — REST-backed internal panel with filterable tables and role-aware nav | 2025 | React · Tailwind · REST API |
 
-<p><a href="https://portfolio-ttzn.vercel.app/#projects"><b>View all projects on the portfolio →</b></a></p>
+**[View all projects on the portfolio →](https://portfolio-ttzn.vercel.app/#projects)**
 
-<img src="assets/sec-activity.svg" alt="GitHub activity — By the Numbers" width="100%">
+## GitHub Activity
 
 <p>
   <img src="https://streak-stats.demolab.com/?user=Muslim-Boy&background=0A0A0A&border=1F1F1F&stroke=1F1F1F&ring=FF5A1F&fire=FF5A1F&currStreakLabel=FF5A1F&currStreakNum=FFFFFF&sideLabels=A1A1A1&sideNums=FFFFFF&dates=A1A1A1&border_radius=16" alt="GitHub contribution streak">
@@ -204,7 +203,7 @@ Telegram bot that runs turn-taking queues inside group chats. Whoever adds it be
 
 > Most of my client work lives in private repositories, so these public counters only tell part of the story. The projects above are the real picture.
 
-<img src="assets/sec-contact.svg" alt="Let's work together — Have a project in mind?" width="100%">
+## Contact
 
 | | |
 | :-- | :-- |
@@ -219,4 +218,8 @@ Telegram bot that runs turn-taking queues inside group chats. Whoever adds it be
   <a href="https://www.fiverr.com/s/BRrYRD1"><img src="https://img.shields.io/badge/Fiverr-141414?style=for-the-badge&logo=fiverr&logoColor=FF5A1F" alt="Fiverr profile"></a>
 </p>
 
-<a href="https://portfolio-ttzn.vercel.app/"><img src="assets/footer.svg" alt="© 2026 Nurmatov Jo'ravoy. All rights reserved. portfolio-ttzn.vercel.app" width="100%"></a>
+---
+
+<p align="center">
+  <sub>© 2026 Nurmatov Jo'ravoy · <a href="https://portfolio-ttzn.vercel.app/">portfolio-ttzn.vercel.app</a></sub>
+</p>
