@@ -154,13 +154,9 @@ On the frontend I work with **React, Vue.js and Next.js**, and **React Native wi
 
 Multi-company ERP for gas cylinder (CNG/LPG) installation and service workshops. Twelve permission-gated modules — orders, customers, warehouse, fines, analytics, reports and audit — plus a Python OCR service that reads vehicle passports.
 
-<img src="https://img.shields.io/badge/React_19-141414?style=flat-square" alt="React 19">
-<img src="https://img.shields.io/badge/TypeScript-141414?style=flat-square" alt="TypeScript">
-<img src="https://img.shields.io/badge/Tailwind_v4-141414?style=flat-square" alt="Tailwind v4">
-<img src="https://img.shields.io/badge/TanStack_Query-141414?style=flat-square" alt="TanStack Query">
-<img src="https://img.shields.io/badge/NestJS-141414?style=flat-square" alt="NestJS">
-<img src="https://img.shields.io/badge/Prisma-141414?style=flat-square" alt="Prisma">
-<img src="https://img.shields.io/badge/PostgreSQL-141414?style=flat-square" alt="PostgreSQL">
+<p align="center">
+  <img src="https://img.shields.io/badge/React_19-141414?style=flat-square" alt="React 19"> <img src="https://img.shields.io/badge/TypeScript-141414?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/Tailwind_v4-141414?style=flat-square" alt="Tailwind v4"> <img src="https://img.shields.io/badge/TanStack_Query-141414?style=flat-square" alt="TanStack Query"> <img src="https://img.shields.io/badge/NestJS-141414?style=flat-square" alt="NestJS"> <img src="https://img.shields.io/badge/Prisma-141414?style=flat-square" alt="Prisma"> <img src="https://img.shields.io/badge/PostgreSQL-141414?style=flat-square" alt="PostgreSQL">
+</p>
 
 **[Live Demo →](https://usta-hona.vercel.app)**
 
@@ -174,14 +170,9 @@ Multi-company ERP for gas cylinder (CNG/LPG) installation and service workshops.
 
 Dark-theme restaurant storefront with a complete ordering flow and admin panel. Live order board over Socket.IO, QR table entry, promo codes, delivery zones and a bilingual UZ/RU menu of 87 dishes.
 
-<img src="https://img.shields.io/badge/Vue_3-141414?style=flat-square" alt="Vue 3">
-<img src="https://img.shields.io/badge/TypeScript-141414?style=flat-square" alt="TypeScript">
-<img src="https://img.shields.io/badge/Tailwind-141414?style=flat-square" alt="Tailwind">
-<img src="https://img.shields.io/badge/Pinia-141414?style=flat-square" alt="Pinia">
-<img src="https://img.shields.io/badge/NestJS-141414?style=flat-square" alt="NestJS">
-<img src="https://img.shields.io/badge/Prisma-141414?style=flat-square" alt="Prisma">
-<img src="https://img.shields.io/badge/PostgreSQL-141414?style=flat-square" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Socket.IO-141414?style=flat-square" alt="Socket.IO">
+<p align="center">
+  <img src="https://img.shields.io/badge/Vue_3-141414?style=flat-square" alt="Vue 3"> <img src="https://img.shields.io/badge/TypeScript-141414?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/Tailwind-141414?style=flat-square" alt="Tailwind"> <img src="https://img.shields.io/badge/Pinia-141414?style=flat-square" alt="Pinia"> <img src="https://img.shields.io/badge/NestJS-141414?style=flat-square" alt="NestJS"> <img src="https://img.shields.io/badge/Prisma-141414?style=flat-square" alt="Prisma"> <img src="https://img.shields.io/badge/PostgreSQL-141414?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Socket.IO-141414?style=flat-square" alt="Socket.IO">
+</p>
 
 **[See it on the portfolio →](https://portfolio-muslim-boy.vercel.app/#projects)**
 
@@ -195,12 +186,9 @@ Dark-theme restaurant storefront with a complete ordering flow and admin panel. 
 
 Automates weekly football with friends inside a Telegram group: an auto-posted poll, pitch-fee splitting per player, payment collection with receipt screenshots and admin approval, debt tracking, fines and a group fund. Multi-tenant — every group runs its own games.
 
-<img src="https://img.shields.io/badge/Laravel_13-141414?style=flat-square" alt="Laravel 13">
-<img src="https://img.shields.io/badge/PHP_8.2-141414?style=flat-square" alt="PHP 8.2">
-<img src="https://img.shields.io/badge/Nutgram-141414?style=flat-square" alt="Nutgram">
-<img src="https://img.shields.io/badge/Alpine.js-141414?style=flat-square" alt="Alpine.js">
-<img src="https://img.shields.io/badge/Telegram_Mini_App-141414?style=flat-square" alt="Telegram Mini App">
-<img src="https://img.shields.io/badge/PostgreSQL-141414?style=flat-square" alt="PostgreSQL">
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel_13-141414?style=flat-square" alt="Laravel 13"> <img src="https://img.shields.io/badge/PHP_8.2-141414?style=flat-square" alt="PHP 8.2"> <img src="https://img.shields.io/badge/Nutgram-141414?style=flat-square" alt="Nutgram"> <img src="https://img.shields.io/badge/Alpine.js-141414?style=flat-square" alt="Alpine.js"> <img src="https://img.shields.io/badge/Telegram_Mini_App-141414?style=flat-square" alt="Telegram Mini App"> <img src="https://img.shields.io/badge/PostgreSQL-141414?style=flat-square" alt="PostgreSQL">
+</p>
 
 <br>
 
@@ -212,17 +200,9 @@ Automates weekly football with friends inside a Telegram group: an auto-posted p
 
 Draw a store branch plan in a 2D CAD editor and walk it in 3D. Walls, doors and windows, staircases and shelves live in one plan tree rendered by two engines, with shelf collision checks and an undo/redo history.
 
-<img src="https://img.shields.io/badge/Vue_3-141414?style=flat-square" alt="Vue 3">
-<img src="https://img.shields.io/badge/TypeScript-141414?style=flat-square" alt="TypeScript">
-<img src="https://img.shields.io/badge/Quasar-141414?style=flat-square" alt="Quasar">
-<img src="https://img.shields.io/badge/Pinia-141414?style=flat-square" alt="Pinia">
-<img src="https://img.shields.io/badge/Three.js-141414?style=flat-square" alt="Three.js">
-<img src="https://img.shields.io/badge/TresJS-141414?style=flat-square" alt="TresJS">
-<img src="https://img.shields.io/badge/Konva-141414?style=flat-square" alt="Konva">
-<img src="https://img.shields.io/badge/NestJS-141414?style=flat-square" alt="NestJS">
-<img src="https://img.shields.io/badge/Prisma-141414?style=flat-square" alt="Prisma">
-<img src="https://img.shields.io/badge/PostgreSQL-141414?style=flat-square" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Turborepo-141414?style=flat-square" alt="Turborepo">
+<p align="center">
+  <img src="https://img.shields.io/badge/Vue_3-141414?style=flat-square" alt="Vue 3"> <img src="https://img.shields.io/badge/TypeScript-141414?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/Quasar-141414?style=flat-square" alt="Quasar"> <img src="https://img.shields.io/badge/Pinia-141414?style=flat-square" alt="Pinia"> <img src="https://img.shields.io/badge/Three.js-141414?style=flat-square" alt="Three.js"> <img src="https://img.shields.io/badge/TresJS-141414?style=flat-square" alt="TresJS"> <img src="https://img.shields.io/badge/Konva-141414?style=flat-square" alt="Konva"> <img src="https://img.shields.io/badge/NestJS-141414?style=flat-square" alt="NestJS"> <img src="https://img.shields.io/badge/Prisma-141414?style=flat-square" alt="Prisma"> <img src="https://img.shields.io/badge/PostgreSQL-141414?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Turborepo-141414?style=flat-square" alt="Turborepo">
+</p>
 
 <br>
 
@@ -234,11 +214,9 @@ Draw a store branch plan in a 2D CAD editor and walk it in 3D. Walls, doors and 
 
 Enterprise admin platform: a granular role-based access matrix, user management, audit logs and real-time analytics in one interface, available in Russian, Uzbek and English.
 
-<img src="https://img.shields.io/badge/Vue_3-141414?style=flat-square" alt="Vue 3">
-<img src="https://img.shields.io/badge/TypeScript-141414?style=flat-square" alt="TypeScript">
-<img src="https://img.shields.io/badge/Quasar-141414?style=flat-square" alt="Quasar">
-<img src="https://img.shields.io/badge/Pinia-141414?style=flat-square" alt="Pinia">
-<img src="https://img.shields.io/badge/Vite_5-141414?style=flat-square" alt="Vite 5">
+<p align="center">
+  <img src="https://img.shields.io/badge/Vue_3-141414?style=flat-square" alt="Vue 3"> <img src="https://img.shields.io/badge/TypeScript-141414?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/Quasar-141414?style=flat-square" alt="Quasar"> <img src="https://img.shields.io/badge/Pinia-141414?style=flat-square" alt="Pinia"> <img src="https://img.shields.io/badge/Vite_5-141414?style=flat-square" alt="Vite 5">
+</p>
 
 <br>
 
@@ -254,11 +232,9 @@ Enterprise admin platform: a granular role-based access matrix, user management,
 
 In-house restaurant floor panel: open and close table bills, apply service fees and room surcharges, log employee fines, and review revenue analytics — persisted locally, no backend required.
 
-<img src="https://img.shields.io/badge/Vue_3-141414?style=flat-square" alt="Vue 3">
-<img src="https://img.shields.io/badge/Pinia-141414?style=flat-square" alt="Pinia">
-<img src="https://img.shields.io/badge/Chart.js-141414?style=flat-square" alt="Chart.js">
-<img src="https://img.shields.io/badge/Tailwind-141414?style=flat-square" alt="Tailwind">
-<img src="https://img.shields.io/badge/i18n-141414?style=flat-square" alt="i18n">
+<p align="center">
+  <img src="https://img.shields.io/badge/Vue_3-141414?style=flat-square" alt="Vue 3"> <img src="https://img.shields.io/badge/Pinia-141414?style=flat-square" alt="Pinia"> <img src="https://img.shields.io/badge/Chart.js-141414?style=flat-square" alt="Chart.js"> <img src="https://img.shields.io/badge/Tailwind-141414?style=flat-square" alt="Tailwind"> <img src="https://img.shields.io/badge/i18n-141414?style=flat-square" alt="i18n">
+</p>
 
 **[Live Demo →](https://portfolio-cd1l.vercel.app)** &nbsp;·&nbsp; **[Code →](https://github.com/Muslim-Boy/restaurant-app)**
 
@@ -273,11 +249,9 @@ In-house restaurant floor panel: open and close table bills, apply service fees 
 
 Telegram bot that runs turn-taking queues inside group chats. Whoever adds it becomes that group's admin and builds queues in a Mini App — sequential or random order, time or command triggers, vote-based confirmation and reminders.
 
-<img src="https://img.shields.io/badge/Node.js-141414?style=flat-square" alt="Node.js">
-<img src="https://img.shields.io/badge/grammY-141414?style=flat-square" alt="grammY">
-<img src="https://img.shields.io/badge/PostgreSQL-141414?style=flat-square" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Vue_3-141414?style=flat-square" alt="Vue 3">
-<img src="https://img.shields.io/badge/Vercel-141414?style=flat-square" alt="Vercel">
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-141414?style=flat-square" alt="Node.js"> <img src="https://img.shields.io/badge/grammY-141414?style=flat-square" alt="grammY"> <img src="https://img.shields.io/badge/PostgreSQL-141414?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Vue_3-141414?style=flat-square" alt="Vue 3"> <img src="https://img.shields.io/badge/Vercel-141414?style=flat-square" alt="Vercel">
+</p>
 
 **[Live Demo →](https://your-turn-queue-bot.vercel.app)**
 
