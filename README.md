@@ -65,6 +65,14 @@ Frontendda **React, Vue.js va Next.js**, mobilda **React Native va Expo** bilan 
   <img src="assets/work/imetrick.jpg" alt="iMetrick — admin platforma" width="100%">
 </p>
 
+<p align="center">
+  <a href="https://portfolio-cd1l.vercel.app"><img src="assets/work/restaurant-pro-uz.jpg" alt="Restaurant Pro — restoran boshqaruvi" width="100%"></a>
+</p>
+
+<p align="center">
+  <a href="https://your-turn-queue-bot.vercel.app"><img src="assets/work/your-turn-uz.jpg" alt="Sening Navbating — Telegram navbat boti" width="100%"></a>
+</p>
+
 | Loyiha | Yil | Texnologiyalar | Havola |
 | :-- | :-- | :-- | :-- |
 | **Gaz Ballon ERP (UstaHona)** — ko'p kompaniyali ERP / SaaS | 2026 | React · NestJS · Prisma · PostgreSQL | [Jonli demo](https://usta-hona.vercel.app) |
@@ -73,7 +81,7 @@ Frontendda **React, Vue.js va Next.js**, mobilda **React Native va Expo** bilan 
 | **iShelf 3D** — do'kon rejasini 2D da chizish va 3D da ko'rish | 2026 | Vue 3 · Quasar · Three.js · Konva · NestJS | — |
 | **iMetrick** — RBAC, foydalanuvchilar va analitika admin platformasi | — | Vue 3 · Quasar · Pinia · Vite | — |
 | **Restaurant Pro** — zal boshqaruvi va POS | 2026 | Vue 3 · Pinia · Chart.js · i18n | [Jonli demo](https://portfolio-cd1l.vercel.app) · [Kod](https://github.com/Muslim-Boy/restaurant-app) |
-| **Sening Navbating** — Telegram navbat boti va Mini App | 2026 | Node.js · grammY · PostgreSQL · Vue 3 | [Jonli demo](https://your-turn-queue-bot.vercel.app) |
+| **Sening Navbating** — Telegram navbat boti va Mini App | 2026 | Node.js · grammY · Supabase · Vue 3 | [Jonli demo](https://your-turn-queue-bot.vercel.app) |
 | **Interactive SVG Map** — hudud tanlash interfeysi | 2025 | Vue · SVG · Tailwind | [Portfolioda](https://portfolio-muslim-boy.vercel.app/#projects) |
 | **Region Detail View** — xaritada chuqurlashuv | 2025 | Vue · Quasar · Pinia | [Portfolioda](https://portfolio-muslim-boy.vercel.app/#projects) |
 | **Admin Dashboard** — ichki panel | 2025 | React · Tailwind · REST API | [Portfolioda](https://portfolio-muslim-boy.vercel.app/#projects) |
@@ -220,44 +228,37 @@ Enterprise admin platform: a granular role-based access matrix, user management,
 
 <br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 <p align="center">
-  <a href="https://portfolio-cd1l.vercel.app"><img src="assets/work/restaurant-pro.png" alt="Restaurant Pro floor panel" width="100%"></a>
+  <a href="https://portfolio-cd1l.vercel.app"><img src="assets/work/restaurant-pro-en.jpg" alt="Restaurant Pro — restaurant floor management poster" width="100%"></a>
 </p>
 
 <h3>Restaurant Pro &nbsp;<sub>2026 · Floor management &amp; POS</sub></h3>
 
-In-house restaurant floor panel: open and close table bills, apply service fees and room surcharges, log employee fines, and review revenue analytics — persisted locally, no backend required.
+Run a whole restaurant from one screen: rooms and tables with live occupied/free status, orders from menu and cart, bills with automatic service fees and room surcharges, staff fines for removed items, and daily revenue analytics — persisted locally, no backend required.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Vue_3-141414?style=flat-square" alt="Vue 3"> <img src="https://img.shields.io/badge/Pinia-141414?style=flat-square" alt="Pinia"> <img src="https://img.shields.io/badge/Chart.js-141414?style=flat-square" alt="Chart.js"> <img src="https://img.shields.io/badge/Tailwind-141414?style=flat-square" alt="Tailwind"> <img src="https://img.shields.io/badge/i18n-141414?style=flat-square" alt="i18n">
+  <img src="https://img.shields.io/badge/Vue_3-141414?style=flat-square" alt="Vue 3"> <img src="https://img.shields.io/badge/TypeScript-141414?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/Pinia-141414?style=flat-square" alt="Pinia"> <img src="https://img.shields.io/badge/Tailwind_CSS-141414?style=flat-square" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/Chart.js-141414?style=flat-square" alt="Chart.js"> <img src="https://img.shields.io/badge/vue--i18n-141414?style=flat-square" alt="vue-i18n"> <img src="https://img.shields.io/badge/Vite-141414?style=flat-square" alt="Vite">
 </p>
 
 **[Live Demo →](https://portfolio-cd1l.vercel.app)** &nbsp;·&nbsp; **[Code →](https://github.com/Muslim-Boy/restaurant-app)**
 
-</td>
-<td width="50%" valign="top">
+<br>
 
 <p align="center">
-  <a href="https://your-turn-queue-bot.vercel.app"><img src="assets/work/your-turn-queue-bot.png" alt="Sening Navbating Telegram Mini App" width="55%"></a>
+  <a href="https://your-turn-queue-bot.vercel.app"><img src="assets/work/your-turn-en.jpg" alt="YourTurn — Telegram queue bot and Mini App poster" width="100%"></a>
 </p>
 
-<h3>Sening Navbating &nbsp;<sub>2026 · Telegram queue bot &amp; Mini App</sub></h3>
+<h3>Sening Navbating · YourTurn &nbsp;<sub>2026 · Telegram queue bot &amp; Mini App</sub></h3>
 
-Telegram bot that runs turn-taking queues inside group chats. Whoever adds it becomes that group's admin and builds queues in a Mini App — sequential or random order, time or command triggers, vote-based confirmation and reminders.
+Telegram bot that runs turn-taking queues inside group chats — who's on duty, when, and who owes how much. Whoever adds it becomes that group's admin and builds queues in a Mini App: schedule or command triggers, vote-based confirmation, days off, reminders, plus shares, a group fund, debts and receipts.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-141414?style=flat-square" alt="Node.js"> <img src="https://img.shields.io/badge/grammY-141414?style=flat-square" alt="grammY"> <img src="https://img.shields.io/badge/PostgreSQL-141414?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Vue_3-141414?style=flat-square" alt="Vue 3"> <img src="https://img.shields.io/badge/Vercel-141414?style=flat-square" alt="Vercel">
+  <img src="https://img.shields.io/badge/Node.js_20-141414?style=flat-square" alt="Node.js 20"> <img src="https://img.shields.io/badge/grammY-141414?style=flat-square" alt="grammY"> <img src="https://img.shields.io/badge/Supabase-141414?style=flat-square" alt="Supabase"> <img src="https://img.shields.io/badge/PostgreSQL-141414?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Vue_3-141414?style=flat-square" alt="Vue 3"> <img src="https://img.shields.io/badge/Vite-141414?style=flat-square" alt="Vite"> <img src="https://img.shields.io/badge/Vercel-141414?style=flat-square" alt="Vercel"> <img src="https://img.shields.io/badge/Telegram_Mini_App-141414?style=flat-square" alt="Telegram Mini App">
 </p>
 
 **[Live Demo →](https://your-turn-queue-bot.vercel.app)**
 
-</td>
-</tr>
-</table>
+<br>
 
 **Also in the portfolio**
 
