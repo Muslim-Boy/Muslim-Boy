@@ -45,10 +45,33 @@ Frontendda **React, Vue.js va Next.js**, mobilda **React Native va Expo** bilan 
 
 ### Tanlangan ishlar
 
+<p align="center">
+  <a href="https://usta-hona.vercel.app"><img src="assets/work/gaz-ballon-erp-uz.jpg" alt="UstaHona — gaz ballon ustaxonalari uchun ERP" width="100%"></a>
+</p>
+
+<p align="center">
+  <a href="https://portfolio-muslim-boy.vercel.app/#projects"><img src="assets/work/namuna-oshxona-poster.jpg" alt="Namuna Oshxona — restoran sayti va buyurtma tizimi" width="100%"></a>
+</p>
+
+<p align="center">
+  <img src="assets/work/futbol-bot-uz.jpg" alt="Futbol Bot — Telegram bot va Mini App" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/work/ishelf-3d-uz.jpg" alt="iShelf 3D — do'kon rejasini 2D da chizing, 3D da aylanib chiqing" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/work/imetrick.jpg" alt="iMetrick — admin platforma" width="100%">
+</p>
+
 | Loyiha | Yil | Texnologiyalar | Havola |
 | :-- | :-- | :-- | :-- |
-| **Gaz Ballon ERP** — ko'p kompaniyali ERP / SaaS | 2026 | React · NestJS · Prisma · PostgreSQL | [Jonli demo](https://usta-hona.vercel.app) |
+| **Gaz Ballon ERP (UstaHona)** — ko'p kompaniyali ERP / SaaS | 2026 | React · NestJS · Prisma · PostgreSQL | [Jonli demo](https://usta-hona.vercel.app) |
 | **Namuna Oshxona** — restoran sayti va buyurtma tizimi | 2026 | Vue 3 · NestJS · Prisma · Socket.IO | [Portfolioda](https://portfolio-muslim-boy.vercel.app/#projects) |
+| **Futbol Bot** — futbol uyushtirish, guruhda to'lov yig'ish va jarimalar uchun Telegram bot va Mini App | 2026 | Laravel · Nutgram · Alpine.js · PostgreSQL | — |
+| **iShelf 3D** — do'kon rejasini 2D da chizish va 3D da ko'rish | 2026 | Vue 3 · Quasar · Three.js · Konva · NestJS | — |
+| **iMetrick** — RBAC, foydalanuvchilar va analitika admin platformasi | — | Vue 3 · Quasar · Pinia · Vite | — |
 | **Restaurant Pro** — zal boshqaruvi va POS | 2026 | Vue 3 · Pinia · Chart.js · i18n | [Jonli demo](https://portfolio-cd1l.vercel.app) · [Kod](https://github.com/Muslim-Boy/restaurant-app) |
 | **Sening Navbating** — Telegram navbat boti va Mini App | 2026 | Node.js · grammY · PostgreSQL · Vue 3 | [Jonli demo](https://your-turn-queue-bot.vercel.app) |
 | **Interactive SVG Map** — hudud tanlash interfeysi | 2025 | Vue · SVG · Tailwind | [Portfolioda](https://portfolio-muslim-boy.vercel.app/#projects) |
@@ -123,31 +146,28 @@ On the frontend I work with **React, Vue.js and Next.js**, and **React Native wi
 
 ## Selected Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 <p align="center">
-  <a href="https://usta-hona.vercel.app"><img src="assets/work/gaz-ballon-erp.png" alt="Gaz Ballon ERP dashboard" width="100%"></a>
+  <a href="https://usta-hona.vercel.app"><img src="assets/work/gaz-ballon-erp-en.jpg" alt="UstaHona — Gas cylinder workshop ERP poster" width="100%"></a>
 </p>
 
-<h3>Gaz Ballon ERP &nbsp;<sub>2026 · Multi-tenant ERP / SaaS</sub></h3>
+<h3>Gaz Ballon ERP · UstaHona &nbsp;<sub>2026 · Multi-tenant ERP / SaaS</sub></h3>
 
-Multi-company ERP for gas cylinder (Metan/Propan) installation and service workshops. Twelve permission-gated modules — orders, customers, warehouse, fines, analytics, reports and audit — plus a Python OCR service that reads vehicle passports.
+Multi-company ERP for gas cylinder (CNG/LPG) installation and service workshops. Twelve permission-gated modules — orders, customers, warehouse, fines, analytics, reports and audit — plus a Python OCR service that reads vehicle passports.
 
-<img src="https://img.shields.io/badge/React-141414?style=flat-square" alt="React">
+<img src="https://img.shields.io/badge/React_19-141414?style=flat-square" alt="React 19">
+<img src="https://img.shields.io/badge/TypeScript-141414?style=flat-square" alt="TypeScript">
+<img src="https://img.shields.io/badge/Tailwind_v4-141414?style=flat-square" alt="Tailwind v4">
+<img src="https://img.shields.io/badge/TanStack_Query-141414?style=flat-square" alt="TanStack Query">
 <img src="https://img.shields.io/badge/NestJS-141414?style=flat-square" alt="NestJS">
 <img src="https://img.shields.io/badge/Prisma-141414?style=flat-square" alt="Prisma">
 <img src="https://img.shields.io/badge/PostgreSQL-141414?style=flat-square" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Tailwind-141414?style=flat-square" alt="Tailwind">
 
 **[Live Demo →](https://usta-hona.vercel.app)**
 
-</td>
-<td width="50%" valign="top">
+<br>
 
 <p align="center">
-  <a href="https://portfolio-muslim-boy.vercel.app/#projects"><img src="assets/work/namuna-oshxona.png" alt="Namuna Oshxona storefront" width="100%"></a>
+  <a href="https://portfolio-muslim-boy.vercel.app/#projects"><img src="assets/work/namuna-oshxona-poster.jpg" alt="Namuna Oshxona — restaurant website, ordering and admin panel poster" width="100%"></a>
 </p>
 
 <h3>Namuna Oshxona &nbsp;<sub>2026 · Restaurant site &amp; ordering</sub></h3>
@@ -155,15 +175,74 @@ Multi-company ERP for gas cylinder (Metan/Propan) installation and service works
 Dark-theme restaurant storefront with a complete ordering flow and admin panel. Live order board over Socket.IO, QR table entry, promo codes, delivery zones and a bilingual UZ/RU menu of 87 dishes.
 
 <img src="https://img.shields.io/badge/Vue_3-141414?style=flat-square" alt="Vue 3">
+<img src="https://img.shields.io/badge/TypeScript-141414?style=flat-square" alt="TypeScript">
+<img src="https://img.shields.io/badge/Tailwind-141414?style=flat-square" alt="Tailwind">
+<img src="https://img.shields.io/badge/Pinia-141414?style=flat-square" alt="Pinia">
 <img src="https://img.shields.io/badge/NestJS-141414?style=flat-square" alt="NestJS">
 <img src="https://img.shields.io/badge/Prisma-141414?style=flat-square" alt="Prisma">
+<img src="https://img.shields.io/badge/PostgreSQL-141414?style=flat-square" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/Socket.IO-141414?style=flat-square" alt="Socket.IO">
-<img src="https://img.shields.io/badge/Tailwind-141414?style=flat-square" alt="Tailwind">
 
 **[See it on the portfolio →](https://portfolio-muslim-boy.vercel.app/#projects)**
 
-</td>
-</tr>
+<br>
+
+<p align="center">
+  <img src="assets/work/futbol-bot-en.jpg" alt="Futbol Bot — Telegram bot and Mini App poster" width="100%">
+</p>
+
+<h3>Futbol Bot &nbsp;<sub>2026 · Telegram bot &amp; Mini App</sub></h3>
+
+Automates weekly football with friends inside a Telegram group: an auto-posted poll, pitch-fee splitting per player, payment collection with receipt screenshots and admin approval, debt tracking, fines and a group fund. Multi-tenant — every group runs its own games.
+
+<img src="https://img.shields.io/badge/Laravel_13-141414?style=flat-square" alt="Laravel 13">
+<img src="https://img.shields.io/badge/PHP_8.2-141414?style=flat-square" alt="PHP 8.2">
+<img src="https://img.shields.io/badge/Nutgram-141414?style=flat-square" alt="Nutgram">
+<img src="https://img.shields.io/badge/Alpine.js-141414?style=flat-square" alt="Alpine.js">
+<img src="https://img.shields.io/badge/Telegram_Mini_App-141414?style=flat-square" alt="Telegram Mini App">
+<img src="https://img.shields.io/badge/PostgreSQL-141414?style=flat-square" alt="PostgreSQL">
+
+<br>
+
+<p align="center">
+  <img src="assets/work/ishelf-3d-en.jpg" alt="iShelf 3D — store plan in 2D, walk it in 3D poster" width="100%">
+</p>
+
+<h3>iShelf 3D &nbsp;<sub>2026 · Retail planning</sub></h3>
+
+Draw a store branch plan in a 2D CAD editor and walk it in 3D. Walls, doors and windows, staircases and shelves live in one plan tree rendered by two engines, with shelf collision checks and an undo/redo history.
+
+<img src="https://img.shields.io/badge/Vue_3-141414?style=flat-square" alt="Vue 3">
+<img src="https://img.shields.io/badge/TypeScript-141414?style=flat-square" alt="TypeScript">
+<img src="https://img.shields.io/badge/Quasar-141414?style=flat-square" alt="Quasar">
+<img src="https://img.shields.io/badge/Pinia-141414?style=flat-square" alt="Pinia">
+<img src="https://img.shields.io/badge/Three.js-141414?style=flat-square" alt="Three.js">
+<img src="https://img.shields.io/badge/TresJS-141414?style=flat-square" alt="TresJS">
+<img src="https://img.shields.io/badge/Konva-141414?style=flat-square" alt="Konva">
+<img src="https://img.shields.io/badge/NestJS-141414?style=flat-square" alt="NestJS">
+<img src="https://img.shields.io/badge/Prisma-141414?style=flat-square" alt="Prisma">
+<img src="https://img.shields.io/badge/PostgreSQL-141414?style=flat-square" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Turborepo-141414?style=flat-square" alt="Turborepo">
+
+<br>
+
+<p align="center">
+  <img src="assets/work/imetrick.jpg" alt="iMetrick — enterprise admin platform poster" width="100%">
+</p>
+
+<h3>iMetrick &nbsp;<sub>Admin platform · RBAC</sub></h3>
+
+Enterprise admin platform: a granular role-based access matrix, user management, audit logs and real-time analytics in one interface, available in Russian, Uzbek and English.
+
+<img src="https://img.shields.io/badge/Vue_3-141414?style=flat-square" alt="Vue 3">
+<img src="https://img.shields.io/badge/TypeScript-141414?style=flat-square" alt="TypeScript">
+<img src="https://img.shields.io/badge/Quasar-141414?style=flat-square" alt="Quasar">
+<img src="https://img.shields.io/badge/Pinia-141414?style=flat-square" alt="Pinia">
+<img src="https://img.shields.io/badge/Vite_5-141414?style=flat-square" alt="Vite 5">
+
+<br>
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
